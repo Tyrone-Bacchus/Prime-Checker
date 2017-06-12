@@ -1,7 +1,7 @@
 # Prime-Checker
 
 # Note these files are only the source code.
-#These files must be compiled if a working executable is needed.
+# These files must be compiled if a working executable is needed.
 
 # Program designed to check if the inputed number was a prime number.
 # Purpose of this project was to utilize the concepts behind embedded loops.
